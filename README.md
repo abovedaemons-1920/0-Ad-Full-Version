@@ -270,3 +270,6 @@ This repository serves as the official landing page for 0 A.D. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 0 A.D. today!**
+
+---
+**Last updated:** 2026-09-06 16:02:16 UTC
