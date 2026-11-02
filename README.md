@@ -272,4 +272,4 @@ This repository serves as the official landing page for 0 A.D. The software is d
 **Get the most recent version of 0 A.D. today!**
 
 ---
-**Last updated:** 2026-11-01 21:00:07 UTC
+**Last updated:** 2026-11-02 00:35:45 UTC
